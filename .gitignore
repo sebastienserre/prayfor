@@ -65,3 +65,4 @@ crashlytics-build.properties
 fabric.properties
 
 Supprimerait .gitignore
+Supprimerait .idea/

@@ -1,10 +1,11 @@
-=== Je suis Charlie ===
+=== Pray For ===
 Contributors: sebastien@thivinfo.com, juliobox
 Donate link: http://paypal.me/sebastienserre
-Tags: charlie, #prayfor, prayfor
+Tags: charlie, #prayfor, prayfor, ribbon
 Requires at Least: 2.6
+Stable tag: 1.0.0
 Tested Up To: 4.5.3
-Stable tag: trunk
+License: GPL V2 or later
 
 Because of some terrorist acts, you can now show your support to who you want by putting a ribbon that says "#prayforXXXX" on your site.
 
