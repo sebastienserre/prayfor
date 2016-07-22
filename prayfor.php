@@ -3,7 +3,7 @@
 Plugin Name: Pray for
 Plugin URI: http://boiteaweb.fr/je-suis-charlie-8500.html
 Description: Because of some terrorist acts, you can now show your support to who you want by putting a ribbon that says "#prayforXXXX" on your site.
-Version: 1.0.0
+Version: 1.0.1
 Author: Sébastien SERRE
 Author URI: http://www.thivinfo.com
 License: GPLv2
@@ -44,8 +44,8 @@ if (isset($options['prayfor_checkbox_field_2'])) {
 	}
 }
 
-add_action( 'plugins_loaded', 'thfo_load_textdomain');
-function thfo_load_textdomain() {
+add_action( 'plugins_loaded', 'pf_load_textdomain');
+function pf_load_textdomain() {
 	load_plugin_textdomain( 'prayfor', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
 }
 

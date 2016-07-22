@@ -3,7 +3,7 @@ Contributors: sebastien@thivinfo.com, juliobox
 Donate link: http://paypal.me/sebastienserre
 Tags: charlie, #prayfor, prayfor, ribbon
 Requires at Least: 2.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Tested Up To: 4.5.3
 License: GPL V2 or later
 
