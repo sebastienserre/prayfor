@@ -1,9 +1,9 @@
 === Pray For ===
-Contributors: sebastien@thivinfo.com, juliobox
+Contributors: sebastien@thivinfo.com
 Donate link: http://paypal.me/sebastienserre
 Tags: charlie, #prayfor, prayfor, ribbon
 Requires at Least: 2.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Tested Up To: 4.5.3
 License: GPL V2 or later
 

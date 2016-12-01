@@ -1,9 +1,8 @@
 <?php
 /*
 Plugin Name: Pray for
-Plugin URI: http://boiteaweb.fr/je-suis-charlie-8500.html
 Description: Because of some terrorist acts, you can now show your support to who you want by putting a ribbon that says "#prayforXXXX" on your site.
-Version: 1.0.1
+Version: 1.0.2
 Author: Sébastien SERRE
 Author URI: http://www.thivinfo.com
 License: GPLv2
